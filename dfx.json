@@ -1,5 +1,9 @@
 {
   "canisters": {
+    "qualification": {
+      "main": "chapters/qualification/challenge/main.mo",
+      "type": "motoko"
+    },
     "counter": {
       "main": "chapters/qualification/demo/main.mo",
       "type": "motoko"
